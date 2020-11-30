@@ -1,0 +1,37 @@
+h1{
+    color: brown;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+p{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: large;
+}
+
+input{
+    border: 2px solid;
+    
+}
+
+div{
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgb(209, 209, 209);
+    align-content: center;
+    align-items: center;
+}
+
+#calcular{
+    height: 50px;
+    width: 100px;
+    background-color: greenyellow;
+    font-size: large;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
